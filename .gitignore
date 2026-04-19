@@ -1,0 +1,8 @@
+﻿408/
+__pycache__/
+*.py[cod]
+.env
+venv/
+node_modules/
+dist/
+*.log
