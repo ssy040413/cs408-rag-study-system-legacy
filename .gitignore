@@ -1,8 +1,19 @@
-﻿408/
+# External textbooks and local credentials
+408/
+.env
+.env.*
+!.env.example
+data/user_llm_config.json
+
+# Python and frontend runtime artifacts
 __pycache__/
 *.py[cod]
-.env
 venv/
+.venv/
 node_modules/
 dist/
 *.log
+
+# Local editor and OS files
+.DS_Store
+.idea/
